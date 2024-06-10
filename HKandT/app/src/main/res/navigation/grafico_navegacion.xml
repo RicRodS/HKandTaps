@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/grafico_navegacion"
+    app:startDestination="@id/fragmentConexion">
+
+    <fragment
+        android:id="@+id/fragmentConexion"
+        android:name="com.ricardo.hkandt.view.FragmentConexion"
+        android:label="fragment_conexion"
+        tools:layout="@layout/fragment_conexion" >
+        <action
+            android:id="@+id/action_fragmentConexion_to_fragmentListasAcciones"
+            app:destination="@id/fragmentListasAcciones" />
+    </fragment>
+    <fragment
+        android:id="@+id/fragmentListasAcciones"
+        android:name="com.ricardo.hkandt.view.FragmentListasAcciones"
+        android:label="fragment_lista_acciones"
+        tools:layout="@layout/fragment_lista_acciones" >
+        <action
+            android:id="@+id/action_fragmentListasAcciones_to_fragmentConexion"
+            app:destination="@id/fragmentConexion" />
+        <argument
+            android:name="ip"
+            app:argType="string" />
+    </fragment>
+</navigation>

@@ -1,0 +1,10 @@
+C:\Users\bobby\Documents\codigo\HotKeys&Taps\HotKeys&Taps\bin\Debug\HotKeys&Taps.exe.config
+C:\Users\bobby\Documents\codigo\HotKeys&Taps\HotKeys&Taps\bin\Debug\HotKeys&Taps.exe
+C:\Users\bobby\Documents\codigo\HotKeys&Taps\HotKeys&Taps\bin\Debug\HotKeys&Taps.pdb
+C:\Users\bobby\Documents\codigo\HotKeys&Taps\HotKeys&Taps\obj\Debug\HotKeys&Taps.csproj.AssemblyReference.cache
+C:\Users\bobby\Documents\codigo\HotKeys&Taps\HotKeys&Taps\obj\Debug\HotKeys_Taps.Form1.resources
+C:\Users\bobby\Documents\codigo\HotKeys&Taps\HotKeys&Taps\obj\Debug\HotKeys_Taps.Properties.Resources.resources
+C:\Users\bobby\Documents\codigo\HotKeys&Taps\HotKeys&Taps\obj\Debug\HotKeys&Taps.csproj.GenerateResource.cache
+C:\Users\bobby\Documents\codigo\HotKeys&Taps\HotKeys&Taps\obj\Debug\HotKeys&Taps.csproj.CoreCompileInputs.cache
+C:\Users\bobby\Documents\codigo\HotKeys&Taps\HotKeys&Taps\obj\Debug\HotKeys&Taps.exe
+C:\Users\bobby\Documents\codigo\HotKeys&Taps\HotKeys&Taps\obj\Debug\HotKeys&Taps.pdb
